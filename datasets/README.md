@@ -6,6 +6,8 @@ The `create_dirty_align_data.py` file takes as input training size and a list of
 
 The data used in our experiments are available to download at: https://drive.google.com/drive/folders/1e2NlKGHGvcHPG7FDIPz_aGCRt19DLdP7?usp=sharing
 
+#### References
+
 [1] Sun, Z., Zhang, Q., Hu, W., Wang, C., Chen, M., Akrami, F. and Li, C., 2020. A benchmarking study of embedding-based entity alignment for knowledge graphs. arXiv preprint arXiv:2003.07743.
 
 [2] Sun, Z., Hu, W. and Li, C., 2017, October. Cross-lingual entity alignment via joint attribute-preserving embedding. In International semantic web conference (pp. 628-644). Cham: Springer International Publishing.
